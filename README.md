@@ -1,5 +1,12 @@
 # ITU BDS MLOPS'26 - Project (V2)
 
+## How to run
+
+- Setup: Instally Python 13 and dependencies
+- Get the data: `dvc pull`
+- Run the tests: `pytest`
+- Generate the model aftifacts: TODO (will once one dagger figured out)
+
 ## Task
 
 Based on the input provided (see below), fork the repository and restructure the code to adhere to the concepts and ideas you have seen throughout the course. The diagram below provides a detailed overview of the structure that the solution is expected to follow.

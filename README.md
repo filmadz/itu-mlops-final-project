@@ -1,5 +1,13 @@
 # ITU BDS MLOPS'26 - Project (V2)
 
+## How to run
+
+- Setup: Instally Python 13 and dependencies
+- Get the data: `dvc pull`
+- Run the tests: `pytest`
+- Generate the model aftifacts: TODO (will once one dagger figured out)
+
+## Dir Structure
 
 ```
 itu-mlops-final-project/

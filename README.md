@@ -1,6 +1,7 @@
 # ITU BDS MLOPS'26 - Project (V2)
 
 
+```
 itu-mlops-final-project/
 ├── README.md                  # project description, structure, how to run
 ├── pyproject.toml             # Python package + dependencies (replaces notebooks/requirements.txt)
@@ -47,6 +48,7 @@ itu-mlops-final-project/
 ├── .dvc/, .dvcignore
 ├── notebooks/                 # original notebooks, kept for reference
 └── docs/                      # architecture diagram, dataset doc 
+```
 
 ## Task
 

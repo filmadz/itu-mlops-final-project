@@ -1,0 +1,14 @@
+.git
+.github
+.venv
+.dvc/cache
+.dvc/tmp
+dagger
+notebooks
+tests
+data
+mlflow-state
+**/__pycache__
+**/*.pyc
+artifacts/*
+!artifacts/drift_baseline_stats.json
